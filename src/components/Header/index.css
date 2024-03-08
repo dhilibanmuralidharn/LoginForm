@@ -1,0 +1,27 @@
+.nav-container {
+  padding: 10px 25px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.nav-website-Logo {
+  width: 200px;
+}
+.nav-item-container {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.nav-item-logo {
+  width: 35px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+.nav-logout-btn {
+  background-color: transparent;
+  padding: 5px 20px;
+  color: white;
+  outline: none;
+  cursor: pointer;
+  border: none;
+}
